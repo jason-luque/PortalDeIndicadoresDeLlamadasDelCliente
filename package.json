@@ -1,0 +1,19 @@
+{
+  "name": "prueba-portal-de-indicadores-de-llamadas-del-cliente",
+  "version": "1.0.0",
+  "description": "E2E Pruba de portal de indicadores de llamadas del cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "prueba",
+    "portal"
+  ],
+  "author": "Jason Raul Luque Medina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  }
+}
